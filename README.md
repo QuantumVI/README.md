@@ -1,6 +1,5 @@
 <div>
-    <h1><b>Adrian Arellano</b></h1>
-     <h1><b>Quantum</b></h1>
+    <h1><b>Adrian Arellano (Quantum)</b></h1>
     <img
         src = "https://www.reddit.com/user/Quantum_Gaming"
         width = "200"
