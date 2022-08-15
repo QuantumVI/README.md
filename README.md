@@ -91,7 +91,7 @@
 
 ## **SOCIAL**
 
-> [![Twitter](https://twitter.com/QuantumV9)
+> [![Twitter](https://img.shields.io/reddit/user-karma/combined/KevinArellano94?style=for-the-badge)](https://twitter.com/QuantumV9)
 
 > [![Twitch](https://img.shields.io/twitch/status/kevinarellano94?style=for-the-badge)](https://www.twitch.tv/kevinarellano94)
 
