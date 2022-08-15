@@ -1,7 +1,8 @@
 <div>
-    <h1><b>Kevin Arellano</b></h1>
+    <h1><b>Adrian Arellano</b></h1>
+     <h1><b>Quantum</b></h1>
     <img
-        src = "https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
+        src = "[https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png](https://www.reddit.com/user/Quantum_Gaming)"
         width = "200"
     />
 </div>
