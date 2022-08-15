@@ -91,13 +91,13 @@
 
 ## **SOCIAL**
 
-> [![Twitter](https://img.shields.io/reddit/user-karma/combined/KevinArellano94?style=for-the-badge)](https://twitter.com/QuantumV9)
+> [![Twitter](https://img.shields.io/reddit/user-karma/combined/QuantumV9?style=for-the-badge)](https://twitter.com/QuantumV9)
 
-> [![Twitch](https://img.shields.io/twitch/status/kevinarellano94?style=for-the-badge)](https://www.twitch.tv/kevinarellano94)
+> [![Twitch](https://img.shields.io/twitch/status/Quantum_VI?style=for-the-badge)](https://www.twitch.tv/quantum_vi/about)
 
-> [![YouTube](https://img.shields.io/youtube/channel/views/UClHn2FuUnrxXW07eJCYfazw?style=for-the-badge)](https://www.youtube.com/KevinArellano)
+> [![YouTube](https://img.shields.io/youtube/channel/views/UClHn2FuUnrxXW07eJCYfazw?style=for-the-badge)](https://www.youtube.com/channel/UC31nROokQa6sWAAZxbapcRw)
 
-> [![YouTube](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge)](https://www.youtube.com/KevinArellano)
+> [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge)](https://open.spotify.com/user/adrian1pro)
 
 #
 
