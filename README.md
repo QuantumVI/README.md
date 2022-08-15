@@ -2,7 +2,7 @@
     <h1><b>Adrian Arellano</b></h1>
      <h1><b>Quantum</b></h1>
     <img
-        src = "[https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png](https://www.reddit.com/user/Quantum_Gaming)"
+        src = "https://www.reddit.com/user/Quantum_Gaming"
         width = "200"
     />
 </div>
@@ -21,8 +21,8 @@
         width = "15"
     />
     <span>
-        <a href = "mailto:Kevin.Arellano94@GMail.Com">
-            <b>Kevin.Arellano94@GMail.Com</b>
+        <a href = "mailto:adriandotarellano2000@gmail.com">
+            <b>adriandotarellano2000@gmail.com</b>
         </a>
     </span>
 </div>
@@ -33,8 +33,8 @@
         width = "15"
     />
     <span>
-        <a href = "tel:678-824-2028">
-            <b>678.824.2028</b>
+        <a href = "tel:470-337-6301">
+            <b>470.337.6301</b>
         </a>
     </span>
 </div>
