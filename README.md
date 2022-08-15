@@ -1,7 +1,7 @@
 <div>
     <h1><b>Adrian Arellano (Quantum)</b></h1>
     <img
-        src = "https://www.reddit.com/user/Quantum_Gaming"
+        src = "https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
         width = "200"
     />
 </div>
