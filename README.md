@@ -105,18 +105,16 @@
 
 If you are still reading this, thank you!  I'll share some secrets about me:
 
-> **Currently working on:** GitHub's Profile README.md file and GoDot XD
+> **Currently working on:** Project Quantum.
 >
-> **I’m currently learning:** Learning Kotlin and Python Automation in GitHub Actions ( will document later ).
+> **I’m currently learning:** Every programming lang.
 > 
-> **I’m looking to collaborate on:** Automation, Machine Learning and Cyber Security
+> **I’m looking to collaborate on:** N/A
 > 
 > **Ask me about:** Anything from software engineering to music
 > 
 > **Fun facts:**
-> - I was born on January 1st.
-> 
-> - Minimalistc philomathic INTJ.
+> - I was born on Oct 19
 > 
 >   - If a computer had every characteristics and composure as a human brain, would it think it's human?  What's the difference or line that states reality versus simulation?  What is human?
 > 
